@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "version": 107,
+            "createdAt": "2022-11-15T08:27:48.305Z",
+            "hasChildren": true,
+            "collaborators": [
+                "Waowuj6GaDBnz-N-AAAD"
+            ]
+        },
+        {
+            "version": 108,
+            "createdAt": "2022-11-15T09:11:47.033Z",
+            "hasChildren": false,
+            "collaborators": [
+                "tJWYhKF2YxLyQfzZAAAB"
+            ]
+        },
+        {
+            "version": 112,
+            "createdAt": "2022-11-15T12:32:14.717Z",
+            "hasChildren": true,
+            "collaborators": [
+                "tJWYhKF2YxLyQfzZAAAB"
+            ]
+        },
+        {
+            "version": 126,
+            "createdAt": "2022-11-16T06:41:42.628Z",
+            "hasChildren": true,
+            "collaborators": [
+                "RFxs1GLeDzqYBDBUAAAC"
+            ]
+        }
+    ],
+    "total": 4,
+    "pageSize": 10
+}
